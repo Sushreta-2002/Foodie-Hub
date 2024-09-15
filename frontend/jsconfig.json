@@ -1,0 +1,6 @@
+{
+    "compilerOption":{
+        "moduleResolution": "node"
+    },
+    "include": ["src"]
+}
